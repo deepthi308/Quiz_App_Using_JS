@@ -1,0 +1,11 @@
+{
+  "name": "project_6_quiz",
+  "version": "1.0.0",
+  "description": "Quiz Website",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch ./data/data.json"
+  },
+  "author": "Deepthi Hariraman",
+  "license": "ISC"
+}

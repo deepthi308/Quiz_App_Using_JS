@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Hyper Tag Markup Language"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "2",
+      "question": "If you have a page of search results and want to highlight the search term, what HTML tag would you use?",
+      "options": ["< em >", "< strong >", "< mark >", "< highlight >"],
+      "answer": 2
+    },
+    {
+      "id": "3",
+      "question": "The elements between the data cells of an HTML table are __________ by default.",
+      "options": [
+        "Justified",
+        "Left Aligned",
+        "Centrally Aligned",
+        "Right Aligned"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "4",
+      "question": "What is the role of a Controller in MVC architecture?",
+      "options": [
+        "It interfaces with the database.",
+        "It acts as an intermediary between Model and View, handling user inputs and updates.",
+        "It structures the data in a meaningful way for the application.",
+        "It defines how data should be presented to the user."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "5",
+      "question": "The latest HTML standard is?",
+      "options": ["XML", "SGML", "HTML 4.0", "HTML 5.0"],
+      "answer": 4
+    },
+    {
+      "id": "6",
+      "question": "The stylesheet file will not be loaded by the browser if you omit_______",
+      "options": ["REL", "STYLE", "BODY", "HTML"],
+      "answer": 1
+    },
+    {
+      "id": "7",
+      "question": "__________ among the following is a Language of JavaScript.",
+      "options": [
+        "Text/JavaScript",
+        "Text/ECMAScript",
+        "Text/VBScript",
+        "JavaScript VBScript"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is NOT a programming language used for web development?",
+      "options": ["HTML", "CSS", "JavaScript", "Python"],
+      "answer": 1
+    },
+    {
+      "id": "9",
+      "question": "What is the purpose of CSS?",
+      "options": [
+        "To create dynamic web pages",
+        "To define the style and layout of web pages",
+        "To store data on the web server",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "10",
+      "question": "Which of the following is NOT a type of HTTP request method?",
+      "options": ["GET", "POST", "HEAD", "DELETE"],
+      "answer": 3
+    }
+  ]
+}
